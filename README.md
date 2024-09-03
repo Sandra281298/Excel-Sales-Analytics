@@ -20,7 +20,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by &L Statement by [Fiscal year]- https://github.com/Sandra281298/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf [Month}-
+    **1.** Create Profit and Loss (P&L) reports by &L Statement by [Fiscal year]- https://github.com/Sandra281298/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf [Month}- https://github.com/Sandra281298/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets] https://github.com/Sandra281298/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
